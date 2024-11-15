@@ -1,1 +1,10 @@
+# Enable the rewrite engine
+RewriteEngine On
 
+# Redirect to Default Content
+# Redirects requests to the root of your namespace to a default RDF/XML file
+RewriteRule ^$ https://your-namespace-url/index.xml [R=303,L]
+
+# Serve RDF/XML Content
+# Allows requests for specific paths to be served with their corresponding RDF/XML files
+RewriteRule ^(.+)$ https://your-namespace-url/$1.xml [R=303,L]
