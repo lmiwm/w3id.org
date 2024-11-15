@@ -6,10 +6,10 @@ This [W3ID](https://w3id.org) provides a persistent URI namespace for the EU pro
 
 ## Contact
 
-### Coordinator
-ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS
+### Project coordinator
+- ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS
 
-### Partners
+### Project partners
 - UNIVERSITAT POLITECNICA DE VALENCIA
 - FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV
 - ASOCIACION DE INVESTIGACION DE LA INDUSTRIA TEXTIL
@@ -26,7 +26,7 @@ ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS
 - CETMA COMPOSITES SRL
 - HEGLA GMBH CO KG
 
-## Information:
+## Information
 
 ### DiMAT Project
 DiMAT Project will develop Digital Technologies for modelling, simulation and optimisation in each stage of the material value chain (design, processing and manufacturing) with data analysis services and visualisation techniques for improving quality, sustainability, effectiveness, and competitiveness of materials. For more information can be found [here](https://dimat-project.eu/).
